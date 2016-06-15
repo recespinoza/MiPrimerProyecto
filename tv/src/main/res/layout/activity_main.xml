@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_browse_fragment"
+    android:name="com.respinoza.miprimerproyecto.MainFragment"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity"
+    tools:deviceIds="tv"
+    tools:ignore="MergeRootFrame"
+    tools:layout="@layout/abc_action_bar_title_item"
+
+<Button
+android:layout_width="wrap_content"
+android:layout_heigth="wrap_content"
+android:layout_weigth="wrap_content"
+android:text="Envia"
+android:layout_heigth="wrap_content"
+android:layout_heigth="wrap_content"/>
+
+
+    />
